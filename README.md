@@ -6,7 +6,7 @@
 
 ## Screenshot
 
-![Scrrencastify of running application](/Users/timothyking/Desktop/UT_Coding_Boot_Camp/Homework/Homework_3/assets/screencastify_homework_3.gif)
+![Scrrencastify of running application](./assets/screencastify_homework_3.gif)
 
 ## Deployed Application
 
